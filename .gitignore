@@ -21,3 +21,4 @@ ENV/
 # Project specific
 .env
 *.log
+chroma_db/
