@@ -22,3 +22,7 @@ ENV/
 .env
 *.log
 chroma_db/
+__pycache__/
+.ipynb_checkpoints/
+test_documents/
+uploaded_files/

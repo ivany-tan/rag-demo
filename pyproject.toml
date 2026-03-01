@@ -10,7 +10,13 @@ dependencies = [
     "jupyter>=1.1.1",
     "jupyterlab>=4.5.3",
     "langchain>=1.2.8",
+    "langchain-community>=0.3.0",
+    "langchain-google-genai>=2.0.0",
+    "langchain-huggingface>=0.1.0",
     "langchain-text-splitters>=1.1.0",
     "python-dotenv>=1.2.1",
+    "rank-bm25>=0.2.2",
+    "unstructured[pdf,docx,md]>=0.16.0",
     "sentence-transformers>=5.2.2",
+    "tiktoken>=0.7.0",
 ]
